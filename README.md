@@ -3,6 +3,36 @@
 
 🎓 **Master's graduate in Computer Science** from the University of Sherbrooke, Canada, with a background in Software Engineering.
 
+
+## 🚀 Featured Project
+
+### 🛡️ CyberQuest - AI-Powered Cybersecurity Learning Platform
+
+An interactive cybersecurity learning platform designed to help users develop security awareness through practical challenges, simulated scenarios, and AI-assisted learning.
+
+**Key Features**
+- Interactive cybersecurity challenges and phishing simulations.
+- AI-powered hints and personalized learning assistance.
+- Progress tracking and scoring system.
+- Full-stack architecture with REST API integration.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-2563EB?style=flat-square)
+
+<!-- Project screenshot -->
+![CyberQuest Preview](images/cyberquest.png)
+
+<!-- Replace with your actual repository URL -->
+[View Project on GitHub](https://github.com/Mallek8/CyberQuest)
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
