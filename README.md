@@ -3,7 +3,7 @@
 
 🎓 **Master's graduate in Computer Science** from the University of Sherbrooke, Canada, with a background in Software Engineering.
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
 
