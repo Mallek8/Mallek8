@@ -26,7 +26,7 @@ An interactive cybersecurity learning platform designed to help users develop se
 ![NLP](https://img.shields.io/badge/NLP-2563EB?style=flat-square)
 
 <!-- Project screenshot -->
-![CyberQuest Preview](images/cyberquest.png)
+![CyberQuest Banner](image.png)
 
 <!-- Replace with your actual repository URL -->
 [View Project on GitHub](https://github.com/Mallek8/CyberQuest)
